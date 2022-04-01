@@ -29,6 +29,11 @@ Il y a 12 principes & [4 valeurs]. <br>
 
 On parle vraiment de Product plutôt que de Projet.
 
+## Guides
+
+- [Scrum](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-French.pdf)
+- [Agile Product Managment](https://f.hubspotusercontent30.net/hubfs/6380433/FR_Product%20Academy%20and%20public%20assets/PA1-new_version-numerique.pdf)
+
 ## Livres
 
 - [Apprendre - Stanislas Dehaene](https://www.placedeslibraires.fr/livre/9782738145420-apprendre-les-talents-du-cerveau-le-defi-des-machines-stanislas-dehaene/)
