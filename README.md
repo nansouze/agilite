@@ -11,7 +11,7 @@ Dynamique Emotionnelle -> Novateur, Participatif <br>
 
 ## Manifeste Agile
 
-Il y a 12 principes & [4 valeurs]. <br>
+Il y a 12 principes & 4 valeurs. <br>
 [En savoir plus](https://fr.wikipedia.org/wiki/Manifeste_agile).
 
 ## Frameworks
