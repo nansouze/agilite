@@ -36,6 +36,7 @@ On parle vraiment de Product plutôt que de Projet.
 
 ## Livres
 
+- [Discovery Discipline - Tristan Charvillat & Rémi Guyot ](https://fr.discovery-discipline.com/)
 - [Apprendre - Stanislas Dehaene](https://www.placedeslibraires.fr/livre/9782738145420-apprendre-les-talents-du-cerveau-le-defi-des-machines-stanislas-dehaene/)
 - [L'école du cerveau - Olivier Houdé](https://www.placedeslibraires.fr/livre/9782738145420-apprendre-les-talents-du-cerveau-le-defi-des-machines-stanislas-dehaene/)
 - [Manager selon les personnalités - Jacques Fradin](https://www.placedeslibraires.fr/livre/9782212558050-manager-selon-les-personnalites-les-neurosciences-au-secours-de-la-motivation-jacques-fradin-frederic-le-moullec/)
