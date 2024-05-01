@@ -16,7 +16,7 @@ Il y a 12 principes & 4 valeurs. <br>
 
 ## Frameworks
 
-- Scrum (Possible de passer uen certification)
+- Scrum (Possible de passer une certification)
 - Kanban
 - Lean
 - Safe (Agilité à l'échelle -> plusiuers équipes)
