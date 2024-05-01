@@ -19,7 +19,7 @@ Il y a 12 principes & 4 valeurs. <br>
 - Scrum (Possible de passer une certification)
 - Kanban
 - Lean
-- Safe (Agilité à l'échelle -> plusiuers équipes)
+- Safe (Agilité à l'échelle -> plusieurs équipes)
 
 ## Postes
 
